@@ -1,0 +1,6 @@
+*.suo
+obj
+*.pdb
+*vshost*.exe
+*.user
+
